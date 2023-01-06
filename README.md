@@ -8,7 +8,7 @@ and `microsoft/table-transformer-structure-recognition` to detect tables and rec
 
 CLI:
 ```sh
-$ python table_extraction.py -f example.py -o output_dir
+$ python table_extraction.py -f example.pdf -o output_dir
 ```
 
 Python library:
